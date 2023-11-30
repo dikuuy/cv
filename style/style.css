@@ -133,4 +133,12 @@
     .information {
         padding-right: 0px;
     }
+
+    .information .title {
+        font-size: 17px;
+    }
+
+    .personal ul li span {
+        font-size: 13px;
+    }
 }
